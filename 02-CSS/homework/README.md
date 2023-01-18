@@ -47,7 +47,7 @@ A partir de una paǵina que simula una noticia sobre _Música 8D_ es necesario t
 *Si ves cambios en el estilo de la página es porque las importaciones fueron exitosas*
 
 
-#### Formato Desktop
+#### Formato Desktop{{}}
 
 * Agregar el viewport meta tag dentro del head del archivo index.html
 
